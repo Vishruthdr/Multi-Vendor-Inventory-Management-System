@@ -55,7 +55,5 @@ python manage.py migrate
 5️⃣ Run the Server
 python manage.py runserver
 
-6️⃣ Open in Browser
-https://s7slh6wx-8000.inc1.devtunnels.ms/
 
 
