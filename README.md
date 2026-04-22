@@ -56,6 +56,6 @@ python manage.py migrate
 python manage.py runserver
 
 6️⃣ Open in Browser
-http://127.0.0.1:8000
+https://s7slh6wx-8000.inc1.devtunnels.ms/
 
 
