@@ -34,4 +34,28 @@ A Django-based web application that integrates multiple vendor data sources, nor
 - **Frontend:** HTML, Bootstrap
 - **API Testing:** Postman / Browser
 
+--
+
+- ⚙️ Installation & Setup
+1️⃣ Clone the Repository
+git clone -https://github.com/Vishruthdr/Multi-Vendor-Inventory-Management-System
+cd multi-vendor-inventory-system
+
+2️⃣ Install Dependencies
+pip install -r requirements.txt
+
+3️⃣ Configure Database
+Update your MySQL credentials in:
+settings.py
+
+4️⃣ Apply Migrations
+python manage.py makemigrations
+python manage.py migrate
+
+5️⃣ Run the Server
+python manage.py runserver
+
+6️⃣ Open in Browser
+http://127.0.0.1:8000
+
 
